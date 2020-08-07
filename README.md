@@ -9,4 +9,4 @@ But more than that I am a learner 💻
 C'mon, contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnaAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-almeida-72bab8161/)](https://www.linkedin.com/in/ana-almeida-72bab8161/) 
-[![Gmail Badge](https://img.shields.io/badge/anapalemidah1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anapalmeidaj1@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/anapalmeida1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anapalmeidaj1@gmail.com)](mailto:tgmarinho@gmail.com)
