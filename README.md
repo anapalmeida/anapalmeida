@@ -4,7 +4,7 @@ I am a full stack developer ☕ <br/>
 But more than that I am a learner 💻
 
 💬 Currently studying Digital Design, I'm looking forward to join your team to solve problems using ReactJS, React Native, TypeScript, Node.JS and I also can help you with CSS! <br />
-:purple_heart: In my free time, I like watching Old Hollywood movies and TV Shows
+:purple_heart: In my free time, I like watching Old Hollywood movies, British soup opera and TV Shows
 
 C'mon, contact me!
 
