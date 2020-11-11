@@ -3,8 +3,11 @@
 I am a full stack developer and a desginer ☕ <br/>
 But more than that I am a learner 💻
 
-💬 Currently studying Digital Design, I'm always looking problems to solve using ReactJS, React Native, TypeScript, Node.JS and I also can help you with CSS! <br />
-:purple_heart: In my free time, I like watching Old Hollywood movies, British soup opera and TV Shows
+💬 Currently studying Digital Design, I like aligning both my knowledge in design and development. As a knowledge sharer enthusiast, I love working synergically. My most important value is constant learning and that enabled me to have a grasp from graphic design to mainframe development. <br>
+
+I love learning about JavaScript, TypeScript, React.JS, React Native and, of course, Node.JS. Professionally, I've always been a back-end developer, having worked with C#, JavaScript for Dynamics 365, NATURAL, and ADABAS. <br>
+
+:purple_heart: In my free time, I like watching Old Hollywood films, British soup opera and TV Shows
 
 C'mon, contact me!
 
