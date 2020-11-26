@@ -12,4 +12,4 @@ I love learning about JavaScript, TypeScript, React.JS, React Native and, of cou
 C'mon, contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnaAlmeida-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-almeida-72bab8161/)](https://www.linkedin.com/in/ana-almeida-72bab8161/) 
-[![Gmail Badge](https://img.shields.io/badge/anapalmeida1@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anapalmeidaj1@gmail.com)](mailto:anapalmeidaj1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/anapalmeidaj1@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anapalmeidaj1@gmail.com)](mailto:anapalmeidaj1@gmail.com)
