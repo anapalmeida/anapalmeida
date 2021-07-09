@@ -1,6 +1,6 @@
 ## Howdy! 👋
 
-I am a full stack developer and a desginer ☕ <br/>
+I am a full stack developer and a designer ☕ <br/>
 But more than that I am a learner 💻
 
 💬 Currently studying Digital Design, I like aligning both my knowledge in design and development. As a knowledge sharer enthusiast, I love working synergically. My most important value is constant learning and that enabled me to have a grasp from graphic design to mainframe development. <br>
