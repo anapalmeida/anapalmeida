@@ -24,4 +24,4 @@ I love learning about  React, JavaScript, TypeScript, React Native, Node.js, Jav
 
 C'mon, contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-AnaAlmeida-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-almeida-72bab8161/)](https://www.linkedin.com/in/ana-almeida-72bab8161/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ana Almeida-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-almeida-72bab8161/)](https://www.linkedin.com/in/ana-almeida-72bab8161/)
