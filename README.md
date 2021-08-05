@@ -14,7 +14,7 @@
    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div><br/>
 
-I am a front end and back end developer and a designer ☕ <br/>
+I am a front-end and back-end developer and a designer ☕ <br/>
 But more importantly I am a learner 💻<br/>
 Currently a Digital Design student 💬<br/>
 
