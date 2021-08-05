@@ -3,8 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapalmeida&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapalmeida&layout=compact&langs_count=7&theme=draculas)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapalmeida&layout=compact&langs_count=7&theme=dracula)
 
 
 I am a front end and back end developer and a designer ☕ <br/>
