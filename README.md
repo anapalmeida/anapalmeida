@@ -1,5 +1,9 @@
 ## Howdy! 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapalmeida)](https://github.com/anapalmeida/github-readme-stats)
+
+
 I am a front end and back end developer and a designer ☕ <br/>
 But more than that I am a learner 💻
 
