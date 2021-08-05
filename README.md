@@ -1,7 +1,9 @@
 ## Howdy! 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapalmeida&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapalmeida&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapalmeida&layout=compact)](https://github.com/anapalmeida/github-readme-stats)
 
 
 
