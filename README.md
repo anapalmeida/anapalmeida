@@ -18,9 +18,9 @@ I am a front-end and back-end developer and a designer ☕ <br/>
 But more importantly I am a learner 💻<br/>
 Currently a Digital Design student 📚<br/>
 
-I love learning about  React, JavaScript, TypeScript, React Native, Node.js, Java, Angular, and Python. Professionally, I've worked both as back-end developer, having worked with C#, NATURAL and ADABAS, and as a front-end developer, having worked with React and JavaScript. <br>
+I love learning about  React, JavaScript, TypeScript, React Native, Node.js, Java, Angular, and Python. Professionally, I've worked both as back-end developer, having worked with C#, NATURAL and Java, and as a front-end developer, having worked with React and JavaScript. <br>
 
-:purple_heart: In my free time, I like watching queer films, TV shows and writing.
+:purple_heart: On my free time, I like watching queer films, TV shows and writing.
 
 C'mon, contact me!
 
