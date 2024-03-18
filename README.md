@@ -1,27 +1,11 @@
-## Howdy! 👋
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=anapalmeida&show_icons=true&count_private=true&theme=shadow_blue&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anapalmeida&layout=compact&hide_border=true&theme=shadow_blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=anapalmeida&theme=shadow_blue&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/anapalmeidaj">   
+  <img align="center" src="https://img.shields.io/badge/-Ana%20Almeida-purple?style=flat-square&logo=Linkedin&logoColor=white" height="50" width="210" alt="anapalmeida" /></a>
+</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapalmeida&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapalmeida&layout=compact&langs_count=8&theme=dracula)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div><br/>
-
-I am a front-end and back-end developer and a designer ☕ <br/>
-But more importantly I am a learner 💻<br/>
-Currently a Digital Design student 📚<br/>
-
-I love learning about  React, JavaScript, TypeScript, React Native, Node.js, Java, Angular, and Python. Professionally, I've worked both as back-end developer, having worked with C#, NATURAL and Java, and as a front-end developer, having worked with React and JavaScript. <br>
-
-:purple_heart: On my free time, I like watching queer films, TV shows and writing.
-
-C'mon, contact me!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ana%20Almeida-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-almeida-72bab8161/)](https://www.linkedin.com/in/ana-almeida-72bab8161/)
