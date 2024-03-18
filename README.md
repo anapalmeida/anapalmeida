@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://www.linkedin.com/in/anapalmeidaj">   
-  <img align="center" src="https://img.shields.io/badge/-Ana%20Almeida-purple?style=flat-square&logo=Linkedin&logoColor=white" height="50" width="210" alt="anapalmeida" /></a>
+  <img align="center" src="https://img.shields.io/badge/-Ana%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white" height="50" width="150" alt="anapalmeida" /></a>
 </p>
 
 
